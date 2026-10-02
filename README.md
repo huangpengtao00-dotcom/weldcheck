@@ -114,3 +114,7 @@ real leaderboard.
 - `weldcheck/audit.py` — AST audit of a repository's load sites
 
 MIT licensed.
+
+---
+
+More context: [opallagent.com/evidence.html](https://opallagent.com/evidence.html) — How OPALL separates what a number proves from what it does not.
